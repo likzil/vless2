@@ -4,7 +4,7 @@
 
 #support-url: https://t.me/wielw
 
-#announce: Срок окончания подписки смотри в боте @roflsvpn_bot 👈 поддержка ⚡-ютуб без рекламы 
+#announce: Срок окончания подписки смотри в боте @ammotcp_vpn_bot 👈 поддержка ⚡-ютуб без рекламы 
 
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
@@ -85,7 +85,6 @@ vless://145022e6-3466-4d8e-8c58-bc70b462c189@89.208.223.199:443?security=reality
 vless://145022e6-3466-4d8e-8c58-bc70b462c189@212.111.84.196:443?security=reality&encryption=none&pbk=BDyn_XZNoDpbe71WlthrYCpPJ_fcIC4vmflGLInCTBo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=1a3a15e264608461#%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%235%20%7C%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2
 vless://145022e6-3466-4d8e-8c58-bc70b462c189@83.166.252.122:443?security=reality&encryption=none&pbk=BDyn_XZNoDpbe71WlthrYCpPJ_fcIC4vmflGLInCTBo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=1a3a15e264608461#%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%236%20%7C%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2
 vless://145022e6-3466-4d8e-8c58-bc70b462c189@178.250.246.138:443?security=reality&encryption=none&pbk=x6IISB8aN_CSlPY6C1PEcwj-HsNYK_wPnTGE4PV0OEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e5b74b1933d870a2#%F0%9F%87%B7%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%237%20%7C%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2
-
 vless://8227fd6f-9f1d-4488-b00a-200b823dfef0@158.160.189.58:443?security=reality&encryption=none&pbk=BbMA-RK6oOpnr85tOmRWbJisENX6jaOvysPwqY3Enh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=abcd1234#%F0%9F%87%B7%F0%9F%87%BA%20LTE
 vless://8227fd6f-9f1d-4488-b00a-200b823dfef0@51.250.47.10:4243?security=reality&encryption=none&pbk=8atyFJCwVVTiUIqJoXF2B9OYnTNZh8fE8Rhi9UV_okY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=abcd1234#%F0%9F%87%A9%F0%9F%87%AA%20LTE%201
 vless://8227fd6f-9f1d-4488-b00a-200b823dfef0@51.250.9.171:4243?security=reality&encryption=none&pbk=875lQNBNjbb6AFXYj63Nuyqr6O5IVgZAaAlBoUe2dn8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=abcd1234#%F0%9F%87%B3%F0%9F%87%B1%20LTE%202
@@ -98,3 +97,7 @@ vless://51a5686f-af6d-4c07-adb6-42a3ab4a4c6a@84.201.165.105:443?security=reality
 vless://51a5686f-af6d-4c07-adb6-42a3ab4a4c6a@84.201.142.177:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20LTE%209
 vless://51a5686f-af6d-4c07-adb6-42a3ab4a4c6a@84.201.137.212:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%F0%9F%87%B3%F0%9F%87%B1%20LTE%2010
 vless://51a5686f-af6d-4c07-adb6-42a3ab4a4c6a@51.250.39.67:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%F0%9F%87%B3%F0%9F%87%B1%20LTE%2011
+vless://c1c9cd6c-fedf-43e0-bd58-e28bbcfd85ab@217.16.23.236:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#%F0%9F%87%B8%F0%9F%87%AA%20%E2%9A%A1%EF%B8%8F%20LTE%20%20%7C%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2
+vless://c1c9cd6c-fedf-43e0-bd58-e28bbcfd85ab@217.16.23.236:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=43dcff53849b81e6#%F0%9F%87%AA%F0%9F%87%AA%20%E2%9A%A1%EF%B8%8F%20LTE%20%7C%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2
+vless://c1c9cd6c-fedf-43e0-bd58-e28bbcfd85ab@217.16.21.250:9443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9A%A1%EF%B8%8F%20LTE%20%7C%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2
+vless://c1c9cd6c-fedf-43e0-bd58-e28bbcfd85ab@217.16.21.168:10443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=43dcff53849b81e6#%F0%9F%87%B1%F0%9F%87%BB%20%E2%AD%90%EF%B8%8F%20LTE%20%7C%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2
