@@ -1,1 +1,11 @@
-parser
+#profile-title: RoflVpn
+
+#profile-update-interval: 2
+
+#support-url: https://t.me/wielw
+
+#announce: Срок окончания подписки смотри в боте @ammotcp_vpn_bot 👈 поддержка ⚡-ютуб без рекламы ⭐ -работает gemini. ✳️ -низкий пинг.
+
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless
